@@ -1,4 +1,4 @@
-<!DOCTYPE html>
+<!DOCTYPE .dev>
 <html>
 <head>
 	<games>My Webpage<games>
